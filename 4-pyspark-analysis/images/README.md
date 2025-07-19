@@ -8,6 +8,7 @@ Tendance générale : On observe une croissance constante des revenus hebdomadai
 Cette évolution suggère soit une hausse de la fréquentation, soit une augmentation du panier moyen ou du volume des transactions.
  ![Revenus%20hebdomadaires(Revenus%20hebdomadaires.png)](Revenus%20hebdomadaires.png)
 
+
 # Prix moyen par catégorie 
 **Résumé des observations :**
 Coffee beans (21.02) et Branded (17.72) sont les catégories les plus chères, probablement des produits spécialisés ou vendus en quantités importantes/unitaires élevées.
@@ -18,6 +19,8 @@ En particulier Flavours (0.80€) peut être un complément (add-on) aux boisson
 •Si les catégories Coffee beans, Branded, Loose Tea sont peu vendues mais très chères, elles peuvent gonfler artificiellement les revenus hebdomadaires.
 ![Prix%20moyen%20par%20catégorie(Prix%20moyen%20par%20catégorie.png)](Prix%20moyen%20par%20catégorie.png)
 
+
+
 # Valeur moyenne du panier
 **Résumé des observations :**
 En moyenne, chaque transaction individuelle génère 4.69€ de chiffre d’affaires.
@@ -27,6 +30,8 @@ Malgré la présence de produits chers (Coffee beans, Branded), le panier reste 
 •Ils sont vendus peu souvent,
 •Le volume de vente est concentré sur des produits à bas prix.
 ![Valeur%20moyenne%20du%20panier(Valeur%20moyenne%20du%20panier.png)](Valeur%20moyenne%20du%20panier.png)
+
+
  # Top magasins par chiffre d’affaires
 **Résumé des observations :**
 1. Classement serré du top 3
@@ -38,7 +43,9 @@ Peut résulter :
 d’un meilleur emplacement (zone touristique ? bureaux ?),
 d’une meilleure gestion locale (personnel, offre produit),
 ou d’une clientèle haut de gamme achetant plus de produits premium.
-![Top%20magasins%20par%20chiffre%20d'affaires(Top%20magasins%20par%20chiffre%20d'affaires.png)](Top%20magasins%20par%20chiffre%20d'affaires.png)
+![Topmagasinsparchiffred’affaires(Topmagasinsparchiffred’affaires.png)](Topmagasinsparchiffred’affaires.png)
+
+
 # Vue temporaire par catégorie
 **Résumé des observations :**
 •1. 🥇 Coffee & Tea = piliers
@@ -56,6 +63,8 @@ Risque d’être coûteux à gérer (logistique, stockage) pour peu de marge.
 Créer des packs avec Flavours ou Chocolates pour augmenter la valeur du panier.
 Retirer ou revoir le pricing des produits à faible rotation et faible revenu.
 ![Vue%20temporaire%20par%20catégorie(Vue%20temporaire%20par%20catégorie.png)](Vue%20temporaire%20par%20catégorie.png)
+
+
 # Régression linéaire multiple
 **Résumé des observations :**
 Utiliser pour prédiction et simulation business
@@ -63,6 +72,8 @@ Utiliser pour prédiction et simulation business
 Label ≈ Prediction : les résultats sont très proches, avec une erreur négligeable.
 Exemple : pour [2, 3.1] on a 6.2€ réel vs 6.314€ prédit.
 ![Régression%20linéaire%20multiple(Régression%20linéaire%20multiple.png)](Régression%20linéaire%20multiple.png)
+
+
 # Analyse des ventes par jour de la semaine
 **Résumé des observations :**
 1. Les jours les plus rentables :
@@ -80,8 +91,9 @@ Les clients stockent déjà vendredi ?Moins de passages en ville ?Peut-être un 
 •Optimiser les ressources humaines :
 •Réduire les effectifs ou réallouer les stocks selon les jours.
 Analyser par produit & magasin pour comprendre les comportements locaux
-![Analyse%20des%20ventes%20par%20jour%20de%20la%20semaine(Analyse%20des%20ventes%20par%20jour%20de%20la%20semaine.png]
-(Analyse%20des%20ventes%20par%20jour%20de%20la%20semaine.png)
+![Analysedesventesparjourdelasemaine(Analysedesventesparjourdelasemaine.png](Analysedesventesparjourdelasemaine.png)
+
+
 # Séries temporelles
 **Résumé des observations :**
 •Revenu croissant au fil des semaines avec quelques baisses temporaires.
@@ -99,6 +111,8 @@ Ces hausses extrêmes peuvent s’expliquer par :
 • Fréquence des pics :
 •Les produits 1 et 10 affichent plusieurs croissances > 200% → candidats à succès rapide.
 ![Séries%20temporelles(Séries%20temporelles.png)](Séries%20temporelles.png)
+
+
 # Matrice de corrélation
 **Résumé des observations :**
  1. unit_price ↔ revenue : corrélation forte (0.686)
@@ -114,6 +128,8 @@ Pour des stratégies de pricing :
 Confirmer que des hausses de prix impactent peu les quantités (élasticité faible).
 Confirmer l’intérêt d’offres en bundle, surtout pour produits peu corrélés entre eux
  ![Matrice%20de%20corrélation(Matrice%20de%20corrélation.png)](Matrice%20de%20corrélation.png)
+
+
 # RFM Segmentation
 **Résumé des observations :**
 Recency = 736 jours
