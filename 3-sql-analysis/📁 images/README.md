@@ -16,13 +16,23 @@
 • Certains produits (comme INeedMyBean!Dinermug) n'ont pas été vendus pendant les derniers jours → possibles produits dormants ou en fin de cycle.
 ![Durée%20d’ouverture%20des%20magasins](Durée%20d’ouverture%20des%20magasins.png)
 
+# Analyse ABC (Pareto 80/20) – Analyse de la contribution produit au chiffre d’affaires
+**Résumé des observations :**
+Forte concentration du revenu : ~35 produits génèrent 80% du revenu.
+ Produits stars à haute rotation : ce sont les "A" dans la classification ABC.
+Les autres produits ("B" et "C") :
+•Soit des niches à conserver pour l'image ou la fidélité client. 
+•Soit des candidats à rationalisation (surtout les très faibles ventes avec faible marge).
+![Analyse%20ABC%20](Analyse%20ABC%20.png)
 
-
-
-
-
-
-
+# Ratio revenu / quantité par produit
+**Résumé des observations :**
+•Les sirops (Carmel, Hazelnut, Vanilla, Chocolate) ont un prix unitaire très bas autour de 0.80 $, ce qui correspond probablement à des ingrédients ou petits compléments.
+•Les cafés en petites tailles (Sm, Rg) ont des prix unitaires autour de 2 à 3 $.
+•Les produits pâtisseries (Scones, Biscuits) sont autour de 3 à 4.5 $.
+•Les produits organiques ou premium (SustainablyGrownOrganic, DarkchocolateLg) affichent des prix unitaires plus élevés (4.5 à 7.6 $).
+•Certains articles spécifiques comme tasses "INeedMyBean!" ou produits "ChiliMayan" ont des prix unitaires très élevés (12 $ à 14 $), sûrement des articles merchandising ou spécialités.
+![Ratio%20revenu%20quantité%20par%20produit](Ratio%20revenu%20quantité%20par%20produit.png)
 
 # Série quotidienne de volumes
 
@@ -52,9 +62,6 @@
 •Chute forte après 18h, et quasi-nulle à 20h → très peu d’activité nocturne → possibilité de fermeture avant ou faible fréquentation en soirée.
 
 ![Revenu%20par%20heure%20de%20la%20journée](Revenu%20par%20heure%20de%20la%20journée.png)
-
-
-
 
 # Détail des produits
 
