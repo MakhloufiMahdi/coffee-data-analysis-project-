@@ -32,7 +32,7 @@ Les autres produits ("B" et "C") :
 •Les produits pâtisseries (Scones, Biscuits) sont autour de 3 à 4.5 $.
 •Les produits organiques ou premium (SustainablyGrownOrganic, DarkchocolateLg) affichent des prix unitaires plus élevés (4.5 à 7.6 $).
 •Certains articles spécifiques comme tasses "INeedMyBean!" ou produits "ChiliMayan" ont des prix unitaires très élevés (12 $ à 14 $), sûrement des articles merchandising ou spécialités.
-![Ratio%20revenu%20quantité%20par%20produit](Ratio%20revenu%20quantité%20par%20produit.png)
+![Ratiorevenuquantitéparproduit](Ratiorevenuquantitéparproduit.png)
 
 # Série quotidienne de volumes
 
