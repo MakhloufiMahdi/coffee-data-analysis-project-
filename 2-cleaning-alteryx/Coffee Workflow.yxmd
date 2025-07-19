@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\makhl\Downloads\Coffee Shop Sales.xlsx|||`Transactions$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Coffee Shop Sales.xlsx
+Query=`Transactions$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="transaction_id" source="File: C:\Users\makhl\Downloads\Coffee Shop Sales.xlsx|||`Transactions$`" type="Double" />
+            <Field name="transaction_date" source="File: C:\Users\makhl\Downloads\Coffee Shop Sales.xlsx|||`Transactions$`" type="Date" />
+            <Field name="transaction_time" source="File: C:\Users\makhl\Downloads\Coffee Shop Sales.xlsx|||`Transactions$`" type="Time" />
+            <Field name="transaction_qty" source="File: C:\Users\makhl\Downloads\Coffee Shop Sales.xlsx|||`Transactions$`" type="Double" />
+            <Field name="store_id" source="File: C:\Users\makhl\Downloads\Coffee Shop Sales.xlsx|||`Transactions$`" type="Double" />
+            <Field name="store_location" size="255" source="File: C:\Users\makhl\Downloads\Coffee Shop Sales.xlsx|||`Transactions$`" type="V_String" />
+            <Field name="product_id" source="File: C:\Users\makhl\Downloads\Coffee Shop Sales.xlsx|||`Transactions$`" type="Double" />
+            <Field name="unit_price" source="File: C:\Users\makhl\Downloads\Coffee Shop Sales.xlsx|||`Transactions$`" type="Double" />
+            <Field name="product_category" size="255" source="File: C:\Users\makhl\Downloads\Coffee Shop Sales.xlsx|||`Transactions$`" type="V_String" />
+            <Field name="product_type" size="255" source="File: C:\Users\makhl\Downloads\Coffee Shop Sales.xlsx|||`Transactions$`" type="V_String" />
+            <Field name="product_detail" size="255" source="File: C:\Users\makhl\Downloads\Coffee Shop Sales.xlsx|||`Transactions$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="234" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="transaction_id" selected="True" type="Int64" size="8" />
+            <SelectField field="transaction_date" selected="True" />
+            <SelectField field="transaction_time" selected="True" />
+            <SelectField field="transaction_qty" selected="True" />
+            <SelectField field="store_id" selected="True" type="Int64" size="8" />
+            <SelectField field="store_location" selected="True" />
+            <SelectField field="product_id" selected="True" type="Int64" size="8" />
+            <SelectField field="unit_price" selected="True" />
+            <SelectField field="product_category" selected="True" />
+            <SelectField field="product_type" selected="True" />
+            <SelectField field="product_detail" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DataCleansePro.DataCleansePro">
+        <Position x="390" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RemoveNullRows value="False" />
+          <RemoveNullColumns value="False" />
+          <RemoveTabsLineBreaksAndDuplicates value="True" />
+          <RemoveLeadingAndTrailingWhitespace value="True" />
+          <RemoveAllWhitespaces value="True" />
+          <RemoveHTMLTags value="False" />
+          <RemoveInvisibleCharacters value="False" />
+          <Fields>
+            <Field value="transaction_id" selected="False" />
+            <Field value="transaction_date" selected="False" />
+            <Field value="transaction_time" selected="False" />
+            <Field value="transaction_qty" selected="False" />
+            <Field value="store_id" selected="False" />
+            <Field value="store_location" selected="False" />
+            <Field value="product_id" selected="False" />
+            <Field value="unit_price" selected="False" />
+            <Field value="product_category" selected="False" />
+            <Field value="product_type" selected="False" />
+            <Field value="product_detail" selected="True" />
+            <Field value="*Unknown" selected="False" />
+          </Fields>
+          <RemoveLetters value="False" />
+          <RemoveNumbers value="False" />
+          <RemovePunctuation value="False" />
+          <Letters value="" />
+          <Numbers value="" />
+          <Punctuations value="" />
+          <Exceptions value="" />
+          <Checkbox_ReplaceStringColumns value="False" />
+          <Checkbox_ReplaceNumericColumns value="False" />
+          <radioButton_ReplaceNullwithBlanks value="True" />
+          <radioButton_ReplaceBlankswithNulls value="False" />
+          <radioButton_ReplaceNullwithZero value="True" />
+          <radioButton_ReplaceZerowithNulls value="False" />
+          <ReplaceWithBlanks value="False" />
+          <ReplaceWithZero value="False" />
+          <CheckBox_ModifyCase value="False" />
+          <ModifyCase value="none" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDataCleanse" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="486" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[transaction_qty] * [unit_price]&#xA;" field="total_amount" size="8" type="Int64" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[total_amount = [transaction_qty] * [unit_price]
+
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="642" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="transaction_date" order="Ascending" />
+            <Field field="transaction_time" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>transaction_date - Ascending
+transaction_time - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="870" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File />
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions UseDcm="true" MaxRecords="" Format="23">
+            <SpatialObjSize>8000</SpatialObjSize>
+            <TableStyle>Quoted</TableStyle>
+            <TransactionMessages>False</TransactionMessages>
+            <Geometry>True</Geometry>
+            <Table>New Workflow1</Table>
+            <IgnoreDropTableSQLErrors>False</IgnoreDropTableSQLErrors>
+            <OutputOption>Create</OutputOption>
+            <Connection DcmType="ConnectionId" DcmTitle="Microsoft SQL Server ODBC DSN-less" DcmSchemaId="database-odbc-mssql-winauth">78d38ba4-f7f8-4248-ac0e-26e913deb2de</Connection>
+            <Projection />
+            <PostSQL />
+            <TransactionSize>10000</TransactionSize>
+            <PreSQL />
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>dcm:Microsoft SQL Server ODBC DSN-less
+Table=New Workflow1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Coffee Workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="6c842f5f-8526-447a-b76a-979813d70a67" />
+      <Telemetry>
+        <PreviousWorkflowId value="9c083fd4-9074-4658-a705-45fc5459609f" />
+        <OriginWorkflowId value="eaa15f02-9194-4597-850a-58775ed6ac5a" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
