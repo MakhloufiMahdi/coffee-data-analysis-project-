@@ -9,8 +9,23 @@
 
 ![Catégories%20de%20produits](Catégories%20de%20produits.png)
 
-# Durée d’ouverture des magasins
+ # Revenu par localisation
+**Résumé des observations :**
+•Ce résumé montre le chiffre d'affaires total par magasin ou localisation géographique.
+•Tous les trois sites ont des revenus très proches, légèrement supérieurs à 230k. 
+•Hell's Kitchen en tête, ce qui peut s’expliquer par un plus grand trafic piéton, une clientèle plus touristique ou une fréquentation matinale plus forte.
+•Astoria et Lower Manhattan suivent de très près → aucune boutique n’est en difficulté, ce qui est un signe de performance globale de l’enseigne.
+•Cela indique une répartition équilibrée des ventes entre ces trois zones
+![Revenuparlocalisation](Revenuparlocalisation.png)
 
+ # Variabilité des prix par produit et magasin
+**Résumé des observations :**
+•Les produits merchandising comme INeedMyBean! Dinermug et Lattecup ont une variabilité élevée (coef > 0.15), ce qui pourrait s’expliquer par des promotions, versions différentes, ou erreurs de saisie.
+•La majorité des produits alimentaires ont un faible écart-type et coefficient proche de 0, ce qui signifie une tarification stable entre les transactions au sein d’un même magasin.
+•Certains produits, comme OrganicDecafBlend, ont une variabilité un peu plus importante, à surveiller.
+![Variabilitédesprixparproduitetmagasin](Variabilitédesprixparproduitetmagasin.png)
+
+# Durée d’ouverture des magasins
 **Résumé des observations :**
 •La grande majorité des produits sont encore actifs jusqu’au 30 juin, indiquant que l’assortiment n’a pas été changé récemment.
 • Certains produits (comme INeedMyBean!Dinermug) n'ont pas été vendus pendant les derniers jours → possibles produits dormants ou en fin de cycle.
