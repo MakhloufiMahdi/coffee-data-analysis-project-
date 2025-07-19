@@ -5,7 +5,7 @@ Les produits merchandising comme INeedMyBean! Dinermug et Lattecup ont une varia
 La majorité des produits alimentaires ont un faible écart-type et coefficient proche de 0, ce qui signifie une tarification stable entre les transactions au sein d’un même magasin.
 Certains produits, comme OrganicDecafBlend, ont une variabilité un peu plus importante, à surveiller.
  
+![Description](3-sql-analysis/images/transactions_en_dehors_horaires.png)
 
 
-(images/Transactions en dehors des horaires typiques.png)
 
