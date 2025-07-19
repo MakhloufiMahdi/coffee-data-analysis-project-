@@ -7,4 +7,5 @@ Certains produits, comme OrganicDecafBlend, ont une variabilité un peu plus imp
  
 
 
-![ Variabilité des prix par produit et magasin](3-sql-analysis/📁 images/Transactions en dehors des horaires typiques.png)
+(images/Transactions en dehors des horaires typiques.png)
+
