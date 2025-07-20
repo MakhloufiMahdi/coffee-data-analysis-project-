@@ -27,6 +27,7 @@ D’autres produits comme Dark Chocolate et Morning Tea apparaissent également,
 •Le café est le cœur du business
 •Bakery et Chocolate : très bons en cross-sell
 •Beans = niche pour clients fidèles ou prosopulaire
+![Répartition%20des%20revenus%20par%20catégorie(Répartition%20des%20revenus%20par%20catégorie.png)](Répartition%20des%20revenus%20par%20catégorie.png)
 
 # Tableau Performance des produit
 
@@ -36,7 +37,7 @@ D’autres produits comme Dark Chocolate et Morning Tea apparaissent également,
 •Biscotti: Moins vendu mais bonne marge → à pousser en combo
 •Black / Chai Tea: Très peu vendus, mais prix élevés → niche premium ?
 •Clothing: Faible volume, prix élevé → produits dérivés à repositionner
-
+![Tableau%20Performance%20des%20produit(Tableau%20Performance%20des%20produit.png)](Tableau%20Performance%20des%20produit.png)
  # Graphique : Revenu généré par heure de la journée
 
 • Lecture des résultats  :
@@ -47,7 +48,7 @@ D’autres produits comme Dark Chocolate et Morning Tea apparaissent également,
 •Les pics de ventes se concentrent en matinée, notamment entre 9h et 11h30
 •Cela montre une forte affluence pour les petits-déjeuners ou pauses café du matin
 •Les créneaux après 12h semblent très peu rentables (ex. 15:38, 19:24 → très bas)
-
+![Revenu%20généré%20par%20heure%20de%20la%20journée(Revenu%20généré%20par%20heure%20de%20la%20journée.png)](Revenu%20généré%20par%20heure%20de%20la%20journée.png)
 # Graphique : Comparaison du revenu entre localisations
  
 •Les 3 magasins ont une répartition quasi identique du chiffre d’affaires
