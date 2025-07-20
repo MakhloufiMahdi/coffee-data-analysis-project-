@@ -1,22 +1,18 @@
 # Produktkategorien
 **Zusammenfassung der Beobachtungen:**
-
-    Deutliche Dominanz von Kaffee: Mit fast 90 000 Einheiten macht Kaffee rund 40 % des Umsatzes aus – das bestätigt das Kerngeschäft.
-
-    Tee folgt auf Platz 2 mit einem hohen, aber geringeren Verkaufsvolumen.
-
-    Bakery, Drinking Chocolate und Flavours weisen mit etwa 23 000, 17 000 bzw. 10 000 verkauften Einheiten deutlich geringere Werte auf.
-
+Deutliche Dominanz von Kaffee: Mit fast 90 000 Einheiten macht Kaffee rund 40 % des Umsatzes aus – das bestätigt das Kerngeschäft.
+  Tee folgt auf Platz 2 mit einem hohen, aber geringeren Verkaufsvolumen.
+  Bakery, Drinking Chocolate und Flavours weisen mit etwa 23 000, 17 000 bzw. 10 000 verkauften Einheiten deutlich geringere Werte auf.
     Das zeigt, dass das Geschäft vor allem auf klassische Heißgetränke (Kaffee, Tee) ausgerichtet ist.
-
     Diese Erkenntnisse unterstützen gezielte Marketing- und Beschaffungsentscheidungen (insb. Kaffee- und Teebestände).
-![Catégories%20de%20produits](Catégories%20de%20produits.png)
+    
+ ![Catégories%20de%20produits](Catégories%20de%20produits.png)
 
 # Umsatz nach Standort
 
 **Zusammenfassung der Beobachtungen:**
 
-    Der Gesamtumsatz ist zwischen allen drei Standorten sehr ausgeglichen (> 230 000 €).
+    Der Gesamtumsatz ist zwischen allen drei Standorten sehr ausgeglichen (> 230 000 €).
 
     Hell’s Kitchen liegt knapp vor Astoria und Lower Manhattan – vermutlich wegen besserem Fußgängeraufkommen, touristischer Lage oder stärkerer morgendlicher Frequenz.
 
@@ -29,7 +25,7 @@
 
 **Zusammenfassung der Beobachtungen:**
 
-    Merchandising-Artikel wie INeedMyBean! Dinermug und Lattecup zeigen hohe Preisvariabilität (Koeffizient > 0,15), möglicherweise wegen Promoaktionen, Produktversionen oder Eingabefehlern.
+    Merchandising-Artikel wie INeedMyBean! Dinermug und Lattecup zeigen hohe Preisvariabilität (Koeffizient > 0,15), möglicherweise wegen Promoaktionen, Produktversionen oder Eingabefehlern.
 
     Die meisten Lebensmittelprodukte weisen geringe Schwankungen auf – hohe Preisstabilität.
 
@@ -39,16 +35,16 @@
 
 **Zusammenfassung der Beobachtungen:**
 
-    Die meisten Produkte sind bis zum 30. Juni aktiv – das Sortiment wurde in letzter Zeit nicht stark verändert.
+    Die meisten Produkte sind bis zum 30. Juni aktiv – das Sortiment wurde in letzter Zeit nicht stark verändert.
 
-    Einige Produkte (z. B. INeedMyBean!Dinermug) wurden in den letzten Tagen nicht mehr verkauft – möglicherweise ruhend oder auslaufend.
+    Einige Produkte (z. B. INeedMyBean!Dinermug) wurden in den letzten Tagen nicht mehr verkauft – möglicherweise ruhend oder auslaufend.
 
 ![Durée%20d’ouverture%20des%20magasins](Durée%20d’ouverture%20des%20magasins.png)
 # Analyse ABC (Pareto 80/20) – Umsatzanteil der Produkte
 
 **Zusammenfassung der Beobachtungen:**
 
-    Hoher Umsatzfokus: ca. 35 Produkte erzielen 80 % des Umsatzes.
+    Hoher Umsatzfokus: ca. 35 Produkte erzielen 80 % des Umsatzes.
 
     Die „A“-Produkte sind die Top-Verkaufsschlager mit hoher Rotation.
 
@@ -63,15 +59,15 @@
 
 **Zusammenfassung der Beobachtungen:**
 
-    Sirupe (Caramel, Hazelnut, Vanilla, Chocolate) haben niedrige Einzelpreise (~0,80 $) – typische Zusatzartikel.
+    Sirupe (Caramel, Hazelnut, Vanilla, Chocolate) haben niedrige Einzelpreise (~0,80 $) – typische Zusatzartikel.
 
-    Kleine Kaffeegrößen (Sm, Rg) erzielen 2–3 $ pro Stück.
+    Kleine Kaffeegrößen (Sm, Rg) erzielen 2–3 $ pro Stück.
 
-    Gebäckartikel (Scones, Biscuits) liegen bei 3–4,5 $.
+    Gebäckartikel (Scones, Biscuits) liegen bei 3–4,5 $.
 
-    Premiumprodukte (SustainablyGrownOrganic, DarkchocolateLg) erzielen höhere Einzelpreise (4,5–7,6 $).
+    Premiumprodukte (SustainablyGrownOrganic, DarkchocolateLg) erzielen höhere Einzelpreise (4,5–7,6 $).
 
-    Premium-Artikel wie INeedMyBean! Tassen oder ChiliMayan liegen bei 12–14 $ – Merchartikel.
+    Premium-Artikel wie INeedMyBean! Tassen oder ChiliMayan liegen bei 12–14 $ – Merchartikel.
 ![Ratiorevenuquantitéparproduit](Ratiorevenuquantitéparproduit.png)
 # Tägliches Verkaufsvolumen
 
@@ -88,7 +84,7 @@
 
 **Zusammenfassung der Beobachtungen:**
 
-    Die drei meistverkauften Produkte machen weniger als 7 % des Gesamtverkaufs aus – breite Long-Tail-Verteilung.
+    Die drei meistverkauften Produkte machen weniger als 7 % des Gesamtverkaufs aus – breite Long-Tail-Verteilung.
 
     Kein dominierender Bestseller → interessante Nischenprodukte zur gezielten Förderung (Promotion/Combos).
 
@@ -99,11 +95,11 @@
 
 **Zusammenfassung der Beobachtungen:**
 
-    Verkaufsmaxima zwischen 8–10 Uhr morgens – klassische Kaffeekonsumenten-Zeit.
+    Verkaufsmaxima zwischen 8–10 Uhr morgens – klassische Kaffeekonsumenten-Zeit.
 
-    7 Uhr als Umsatztreiber (+40 k mehr als um 6 Uhr) – starke Aktivitätsphase.
+    7 Uhr als Umsatztreiber (+40 k mehr als um 6 Uhr) – starke Aktivitätsphase.
 
-    Ab 18 Uhr stark fallende Umsätze, nach 20 Uhr kaum noch Aktivität.
+    Ab 18 Uhr stark fallende Umsätze, nach 20 Uhr kaum noch Aktivität.
 
     ➜ Strategische Empfehlung: Morgens früher öffnen, keine Verlängerung spätabends.
 
@@ -113,7 +109,7 @@
 
 **Zusammenfassung der Beobachtungen:**
 
-    Hochwertige Kaffee- und Teesorten wie SustainablyGrownOrganicLg und DarkchocolateLg erzielen ~21 k Umsatz.
+    Hochwertige Kaffee- und Teesorten wie SustainablyGrownOrganicLg und DarkchocolateLg erzielen ~21 k Umsatz.
 
     Breite Produktpalette (Cappuccino, Latte, Chai, Scones, Croissants, Biscuits).
 
@@ -125,29 +121,24 @@
 
 **Zusammenfassung der Beobachtungen:**
 
-    7 Uhr als Umsatztreiber gegenüber 6 Uhr (+40 k) – starker Start in den Tag.
+    7 Uhr als Umsatztreiber gegenüber 6 Uhr (+40 k) – starker Start in den Tag.
 
-    Kontinuierlicher Verkaufsrückgang nach 10 Uhr, Umsatz bleibt bis 17 Uhr stabil.
+    Kontinuierlicher Verkaufsrückgang nach 10 Uhr, Umsatz bleibt bis 17 Uhr stabil.
 
-    Ab 18 Uhr deutlicher Einbruch, ab 20 Uhr fast keine Aktivität mehr.
+    Ab 18 Uhr deutlicher Einbruch, ab 20 Uhr fast keine Aktivität mehr.
     Strategie:
     ➜ Fokus auf Frühorientierung: „before 10AM“-Promos oder frühzeitige Öffnungen.
     Detaillierte Beobachtungen:
 
-    Nach 20 Uhr fast keine Transaktionen.
+    Nach 20 Uhr fast keine Transaktionen.
 
-    Deutlicher Umsatzstart vor 8 Uhr, z. B. Lower Manhattan (Pendler), Astoria (ab 07:01).
+    Deutlicher Umsatzstart vor 8 Uhr, z. B. Lower Manhattan (Pendler), Astoria (ab 07:01).
     Fazit:
 
-    Frühere Öffnung (6:30–7 Uhr) in Top-Standorten sinnvoll.
+    Frühere Öffnung (6:30–7 Uhr) in Top-Standorten sinnvoll.
 
     Kein klarer Bedarf für späte Öffnungszeiten – Personal investieren in den Morgen.
 
-
-
-
 ![Transactions en dehors des horaires typiques](transactions_en_dehors_horaires.png)
-
-
 
 
