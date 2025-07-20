@@ -54,6 +54,7 @@ D’autres produits comme Dark Chocolate et Morning Tea apparaissent également,
 •Les 3 magasins ont une répartition quasi identique du chiffre d’affaires
 •Hell’s Kitchen est légèrement en tête
 •Cet équilibre suggère une stratégie homogène entre les sites
+![Com](Com.png)
 
 
 # Graphique : Volume de ventes par mois
