@@ -5,7 +5,7 @@
 •On observe une hausse notable vers la fin de la première semaine (ex. pic autour du 7-9 janvier), ce qui peut coïncider avec un événement ou une offre.
 •Des jours à faible performance existent aussi (ex. 13 et 25 janvier).
 •on peut changer la date par le filtre 
-![Revenu%20au%20fil%20du%20temps%20et%20Ventes%20par%20produit(Revenu%20au%20fil%20du%20temps%20et%20Ventes%20par%20produit.png(Revenu%20au%20fil%20du%20temps%20et%20Ventes%20par%20produit.png)
+![Revenuaufildutempset](Revenuaufildutemps.png)
 # Graphique : Ventes par produit
 
 Les tops produits en termes de revenue sont :
@@ -20,7 +20,7 @@ Ces produits sont tous à base de café, ce qui reflète une forte préférence 
 
 D’autres produits comme Dark Chocolate et Morning Tea apparaissent également, mais avec un revenu moindre.
 
-
+![Ventes%20par%20produit(Ventes%20par%20produit.png)](Ventes%20par%20produit.png)
 # Graphique : Répartition des revenus par catégorie
 
 
