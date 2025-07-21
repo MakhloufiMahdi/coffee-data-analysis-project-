@@ -2,7 +2,8 @@
 
 **Zusammenfassung der Beobachtungen:**
 
-Allgemeiner Trend: Es ist ein stetiges Wachstum der wöchentlichen Einnahmen zu beobachten. Der Umsatz steigt von 17.000 € in Woche 1 auf fast 38.500 € in Woche 20 – mehr als eine Verdopplung in 5 Monaten.
+Allgemeiner Trend: Es ist ein stetiges Wachstum der wöchentlichen Einnahmen zu beobachten.
+Der Umsatz steigt von 17.000 € in Woche 1 auf fast 38.500 € in Woche 20 – mehr als eine Verdopplung in 5 Monaten.
 Stabile Anfangsphase: Zwischen Woche 1 und 6 bleiben die Verkäufe relativ konstant (~17–19K). Dies könnte auf eine Beobachtungsphase oder ein ruhiges kommerzielles Jahresanfang hinweisen.
 Deutliches Wachstum:
 Ab Woche 10 ist ein klarer Anstieg zu erkennen: von ~22K auf 26K, dann 29K und schließlich ein Höhepunkt bei 38.476,55 € in Woche 20.
