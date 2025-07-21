@@ -1,113 +1,112 @@
-# Catégories de produits
+# Product Categories
 
-**Résumé des observations :**
-•Domination nette du café : avec près de 90k unités, le café représente près de 40% des ventes parmi ces 5 catégories. Cela confirme que le cœur du business repose sur cette catégorie.
-• Tea suit en deuxième position, aussi avec un volume important mais inférieur au café.
-• Bakery, Drinking Chocolate et Flavours ont des volumes bien plus faibles, avec respectivement environ 23k, 17k et 10k unités vendues. 
-•Cela suggère que le coeur de l’activité commerciale tourne autour des boissons chaudes classiques (café, thé), tandis que les produits annexes ou complémentaires (pâtisseries, boissons chocolatées, arômes) ont un poids moindre.
-•Cette info peut orienter des décisions marketing ou d’approvisionnement, par exemple en concentrant plus de stock sur le café et le thé. 
+**Summary of Observations:**
+• Clear dominance of coffee: with nearly 90k units sold, coffee accounts for about 40% of total sales among these 5 categories. This confirms that the core of the business relies on this product.
+• Tea ranks second, also with a significant volume but lower than coffee.
+• Bakery, Drinking Chocolate, and Flavours have much lower volumes, with approximately 23k, 17k, and 10k units sold respectively.
+• This suggests that the commercial activity mainly revolves around classic hot beverages (coffee, tea), while complementary or secondary products (pastries, chocolate drinks, flavorings) have a smaller role.
+• This insight can help guide marketing or supply chain decisions — for instance, focusing more inventory on coffee and tea. 
 
 ![Catégories%20de%20produits](Catégories%20de%20produits.png)
 
- # Revenu par localisation
-**Résumé des observations :**
-•Ce résumé montre le chiffre d'affaires total par magasin ou localisation géographique.
-•Tous les trois sites ont des revenus très proches, légèrement supérieurs à 230k. 
-•Hell's Kitchen en tête, ce qui peut s’expliquer par un plus grand trafic piéton, une clientèle plus touristique ou une fréquentation matinale plus forte.
-•Astoria et Lower Manhattan suivent de très près → aucune boutique n’est en difficulté, ce qui est un signe de performance globale de l’enseigne.
-•Cela indique une répartition équilibrée des ventes entre ces trois zones
+ # Revenue by Location
+**Summary of Observations:**
+• This summary shows total revenue per store or geographic location.
+• All three locations have very similar revenues, slightly above €230K.
+• Hell's Kitchen leads, which may be explained by higher foot traffic, a more tourist-oriented clientele, or greater morning activity.
+• Astoria and Lower Manhattan follow closely — no store is underperforming, which reflects strong overall brand performance.
+• This indicates a balanced distribution of sales across the three zones.
 ![Revenuparlocalisation](Revenuparlocalisation.png)
 
- # Variabilité des prix par produit et magasin
-**Résumé des observations :**
-•Les produits merchandising comme INeedMyBean! Dinermug et Lattecup ont une variabilité élevée (coef > 0.15), ce qui pourrait s’expliquer par des promotions, versions différentes, ou erreurs de saisie.
-•La majorité des produits alimentaires ont un faible écart-type et coefficient proche de 0, ce qui signifie une tarification stable entre les transactions au sein d’un même magasin.
-•Certains produits, comme OrganicDecafBlend, ont une variabilité un peu plus importante, à surveiller.
+ # Price Variability by Product and Store
+**Summary of Observations:**
+• Merchandising products like INeedMyBean! Dinermug and Lattecup show high variability (coefficient > 0.15), which could be explained by promotions, different versions, or data entry errors.
+• Most food products have low standard deviation and near-zero coefficients, indicating stable pricing across transactions within the same store.
+• Some products, like OrganicDecafBlend, show slightly higher variability and should be monitored.
 ![Variabilitédesprixparproduitetmagasin](Variabilitédesprixparproduitetmagasin.png)
 
-# Durée d’ouverture des magasins
-**Résumé des observations :**
-•La grande majorité des produits sont encore actifs jusqu’au 30 juin, indiquant que l’assortiment n’a pas été changé récemment.
-• Certains produits (comme INeedMyBean!Dinermug) n'ont pas été vendus pendant les derniers jours → possibles produits dormants ou en fin de cycle.
+# Product Availability Duration
+**Summary of Observations:**
+• The vast majority of products are still active up to June 30, indicating that the assortment hasn't changed recently.
+• Some products (such as INeedMyBean! Dinermug) haven’t been sold in recent days → possibly dormant or end-of-cycle items.
 ![Durée%20d’ouverture%20des%20magasins](Durée%20d’ouverture%20des%20magasins.png)
 
-# Analyse ABC (Pareto 80/20) – Analyse de la contribution produit au chiffre d’affaires
-**Résumé des observations :**
-Forte concentration du revenu : ~35 produits génèrent 80% du revenu.
- Produits stars à haute rotation : ce sont les "A" dans la classification ABC.
-Les autres produits ("B" et "C") :
-•Soit des niches à conserver pour l'image ou la fidélité client. 
-•Soit des candidats à rationalisation (surtout les très faibles ventes avec faible marge).
+# ABC Analysis (Pareto 80/20) – Product Contribution to Revenue
+**Summary of Observations:**
+• Strong revenue concentration: around 35 products generate 80% of total revenue.
+• High-turnover star products: these are classified as "A" in the ABC classification.
+
+The other products ("B" and "C"):
+• May be niche items worth keeping for brand image or customer loyalty.
+• Or potential candidates for rationalization — especially those with very low sales and low margins.
 ![Analyse%20ABC%20](Analyse%20ABC%20.png)
 
-# Ratio revenu / quantité par produit
-**Résumé des observations :**
-•Les sirops (Carmel, Hazelnut, Vanilla, Chocolate) ont un prix unitaire très bas autour de 0.80 $, ce qui correspond probablement à des ingrédients ou petits compléments.
-•Les cafés en petites tailles (Sm, Rg) ont des prix unitaires autour de 2 à 3 $.
-•Les produits pâtisseries (Scones, Biscuits) sont autour de 3 à 4.5 $.
-•Les produits organiques ou premium (SustainablyGrownOrganic, DarkchocolateLg) affichent des prix unitaires plus élevés (4.5 à 7.6 $).
-•Certains articles spécifiques comme tasses "INeedMyBean!" ou produits "ChiliMayan" ont des prix unitaires très élevés (12 $ à 14 $), sûrement des articles merchandising ou spécialités.
+# Revenue-to-Quantity Ratio by Product
+**Summary of Observations:**
+• Syrups (Caramel, Hazelnut, Vanilla, Chocolate) have a very low unit price of around $0.80, likely used as ingredients or small add-ons.
+• Small-size coffees (Sm, Rg) have unit prices around $2 to $3.
+• Pastry items (Scones, Biscuits) are priced around $3 to $4.50.
+• Organic or premium products (SustainablyGrownOrganic, DarkchocolateLg) show higher unit prices ($4.50 to $7.60).
+• Some specific items such as "INeedMyBean!" mugs or "ChiliMayan" products have very high unit prices ($12 to $14), likely merchandising or specialty items.
 ![Ratiorevenuquantitéparproduit](Ratiorevenuquantitéparproduit.png)
 
-# Série quotidienne de volumes
-
-**Résumé des observations :**
-•On observe une tendance générale à la hausse entre janvier (autour de 550-600) et juin (vers 1000-1100), soit environ un doublement sur la période.
-•Il y a des fluctuations journalières, mais la tendance globale est positive, signe d’une croissance soutenue.
-•Cette montée peut refléter une croissance naturelle de la demande, des effets saisonniers (plus d’activité au printemps/été), ou des campagnes marketing efficaces.
-•Le volume semble stable avec des pics réguliers, ce qui indique un business sain.
-
+# Daily Volume Series
+**Summary of Observations:**
+• A general upward trend is observed from January (around 550–600) to June (about 1000–1100), roughly doubling over the period.
+• While daily fluctuations exist, the overall trend is positive — a sign of sustained growth.
+• This increase could reflect natural demand growth, seasonal effects (more activity in spring/summer), or effective marketing campaigns.
+• Volume appears stable with regular peaks, indicating a healthy business.
 ![Série%20quotidienne%20de%20volumes](Série%20quotidienne%20de%20volumes.png)
-# Top 3 produits
-
-**Résumé des observations :**
-•Les 3 produits les plus vendus représentent moins de 7% des ventes cumulées → cela signifie une offre très diversifiée avec une distribution longue en queue.
-•Aucun produit ne domine les ventes : stratégie de long tail → il serait intéressant d’analyser les produits de niche pour maximiser leur potentiel (via promotions, combos).
-•Cela souligne aussi l’importance d’avoir un grand catalogue, car les ventes sont bien réparties entre les produits.
+# Top 3 Products
+**Summary of Observations:**
+• The top 3 best-selling products represent less than 7% of total cumulative sales → indicating a very diverse product offering with a long tail distribution.
+• No single product dominates sales: a long-tail strategy is in place → analyzing niche products could help unlock their full potential (via promotions or combo offers).
+• This also highlights the importance of maintaining a broad catalog, as sales are well distributed across the product range.
 
 ![Top%203%20produits](Top%203%20produits.png)
 
-# Revenu par heure de la journée
-
-**Résumé des observations :**
-
-•Le pic de ventes est entre 8h et 10h du matin → cela confirme un comportement typique de consommation de café avant ou en arrivant au travail.
-•7h est un tremplin (+40k de plus qu’à 6h), signe que la boutique est déjà bien active à l'ouverture.
-•Les ventes diminuent graduellement après 10h, mais restent soutenues jusqu’à 17h, probablement en lien avec des pauses café ou snacks.
-•Chute forte après 18h, et quasi-nulle à 20h → très peu d’activité nocturne → possibilité de fermeture avant ou faible fréquentation en soirée.
+# Revenue by Hour of the Day
+**Summary of Observations:**
+• The sales peak is between 8 AM and 10 AM — confirming typical coffee consumption behavior before or upon arriving at work.
+• 7 AM acts as a ramp-up (+€40K more than at 6 AM), indicating the store is already quite active at opening.
+• Sales gradually decline after 10 AM but remain steady until 5 PM, likely linked to coffee or snack breaks.
+• Sharp drop after 6 PM, and almost zero by 8 PM → very little nighttime activity → possibility of early closing or low evening traffic.
 
 ![Revenu%20par%20heure%20de%20la%20journée](Revenu%20par%20heure%20de%20la%20journée.png)
 
-# Détail des produits
-
-**Résumé des observations :**
-
-•On remarque que les boissons à base de café ou thé, notamment les grands formats comme "SustainablyGrownOrganicLg" et "DarkchocolateLg", génèrent les plus gros revenus (~21k). 
-•La diversité de produits (ex. cappuccino, latte, chai, scones, croissants, biscuits) montre une large gamme d’offres, avec un mix entre boissons et produits alimentaires.
-•Les recettes originales (MorningSunriseChaiLg) trouvent leur public et génèrent des revenus presque comparables aux grands classiques comme le cappuccino.
-•Produit “LatteRg” (Regular) dans le top 3 : montre que même le format médian est extrêmement rentable quand la demande est constante.
-
+# Product Details
+**Summary of Observations:**
+• Coffee- or tea-based drinks, especially large formats like SustainablyGrownOrganicLg and DarkchocolateLg, generate the highest revenues (~€21K).
+• The diversity of products (e.g., cappuccino, latte, chai, scones, croissants, biscuits) shows a wide range of offerings, mixing drinks and food items.
+• Original recipes (like MorningSunriseChaiLg) find their audience and generate revenues nearly comparable to classics like cappuccino.
+• The product “LatteRg” (Regular size) is in the top 3 — showing that even the medium size is extremely profitable when demand is consistent.
 ![Détail%20des%20produits](Détail%20des%20produits.png)
 
-# Transactions en dehors des horaires typiques
+# Transactions Outside Typical Hours
+**Summary of Observations:**
+    7 AM acts as a ramp-up (+€40K more than at 6 AM), indicating the store is already quite active at opening.
 
-**Résumé des observations :**
+    Sales gradually decline after 10 AM but remain steady until 5 PM, likely linked to coffee or snack breaks.
 
-- 7h est un tremplin (+40k de plus qu’à 6h), signe que la boutique est déjà bien active à l'ouverture.  
-- Les ventes diminuent graduellement après 10h, mais restent soutenues jusqu’à 17h, probablement en lien avec des pauses café ou snacks.  
-- Chute forte après 18h, et quasi-nulle à 20h → très peu d’activité nocturne → possibilité de fermeture avant ou faible fréquentation en soirée.
+    Sharp drop after 6 PM, and almost zero by 8 PM → very little nighttime activity → possibility of early closing or low evening traffic.
 
-**Idée stratégique :**  
-Exploiter ce comportement avec des promotions matinales ou formules "before 10AM".
-## Observations détaillées
-- Aucune transaction après 20h n’apparaît.  
-- Une forte activité avant 8h est visible dans plusieurs magasins.  
-- Lower Manhattan semble avoir une clientèle matinale active (peut-être liée à des bureaux ou trajets pendulaires).  
-- Astoria aussi montre des transactions dès 07:01.
-## Conclusion
+ Strategic Idea:
+Leverage this behavior with morning promotions or "before 10 AM" deals.
+Detailed Observations
 
-- Il pourrait être stratégique d’ouvrir dès 6h30–7h dans certains emplacements comme Lower Manhattan.  
-- Inversement, pas besoin évident d’élargir l’horaire au-delà de 20h sauf données contraires.  
-- Cela permettrait de réduire les coûts en personnel en fermant tôt et en renforçant la présence matinale.
+    No transactions occur after 8 PM.
 
+    Strong early activity before 8 AM is visible in several stores.
+
+    Lower Manhattan seems to have an active morning clientele (possibly office workers or commuters).
+
+    Astoria also shows transactions starting as early as 7:01 AM.
+
+Conclusion
+
+    It could be strategic to open as early as 6:30–7 AM in some locations like Lower Manhattan.
+
+    Conversely, there is no clear need to extend hours beyond 8 PM unless other data suggest otherwise.
+
+    This would help reduce staffing costs by closing early and boosting morning presence.
 ![Transactions en dehors des horaires typiques](transactions_en_dehors_horaires.png)
