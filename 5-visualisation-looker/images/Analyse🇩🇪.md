@@ -104,8 +104,6 @@ product_category: nach Produktfamilien (Kaffee, Tee …)
 store_location: Leistung nach Standort
 
 date_range: hier vom 1. bis 31. Januar
-![Filtres%20disponibles(Filtres%20disponibles.png)](Filtres%20disponibles.png)
-![Filtres%20disponibles2(Filtres%20disponibles2.png)](Filtres%20disponibles2.png)
 
 #Wichtige Kennzahlen (KPI)
 
@@ -114,6 +112,9 @@ Umsatz: 81.700 € → sehr guter Monatswert
 Durchschnittlicher Warenkorb: 4,72 € pro Transaktion
 
 Einzigartige Produkte: 80 → große Angebotsvielfalt
+
+![Filtres%20disponibles(Filtres%20disponibles.png)](Filtres%20disponibles.png)
+![Filtres%20disponibles2(Filtres%20disponibles2.png)](Filtres%20disponibles2.png)
 
 ![Indicateurs%20clés%20(KPI)(Indicateurs%20clés%20(KPI).png)](Indicateurs%20clés%20(KPI).png)
 
