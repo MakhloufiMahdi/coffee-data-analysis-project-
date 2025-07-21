@@ -6,6 +6,7 @@ Tendance générale : On observe une croissance constante des revenus hebdomadai
  Croissance marquée :
 À partir de la semaine 10, on observe une accélération nette : passage de ~22K à 26K, puis 29K et enfin un pic à 38,476.55 en semaine 20.
 Cette évolution suggère soit une hausse de la fréquentation, soit une augmentation du panier moyen ou du volume des transactions.
+
  ![Revenus%20hebdomadaires(Revenus%20hebdomadaires.png)](Revenus%20hebdomadaires.png)
 
 
@@ -17,6 +18,7 @@ Coffee, Bakery, Tea, Flavours ont un prix moyen faible (<4€), suggérant des p
 En particulier Flavours (0.80€) peut être un complément (add-on) aux boissons principales.
  Panier moyen impacté ?
 •Si les catégories Coffee beans, Branded, Loose Tea sont peu vendues mais très chères, elles peuvent gonfler artificiellement les revenus hebdomadaires.
+
 ![Prix%20moyen%20par%20catégorie(Prix%20moyen%20par%20catégorie.png)](Prix%20moyen%20par%20catégorie.png)
 
 
@@ -29,6 +31,7 @@ C’est cohérent avec les prix moyens des catégories les plus fréquemment con
 Malgré la présence de produits chers (Coffee beans, Branded), le panier reste modeste, suggérant que :
 •Ils sont vendus peu souvent,
 •Le volume de vente est concentré sur des produits à bas prix.
+
 ![Valeur%20moyenne%20du%20panier(Valeur%20moyenne%20du%20panier.png)](Valeur%20moyenne%20du%20panier.png)
 
 
@@ -43,6 +46,7 @@ Peut résulter :
 d’un meilleur emplacement (zone touristique ? bureaux ?),
 d’une meilleure gestion locale (personnel, offre produit),
 ou d’une clientèle haut de gamme achetant plus de produits premium.
+
 ![Topmagasinsparchiffred’affaires(Topmagasinsparchiffred’affaires.png)](Topmagasinsparchiffred’affaires.png)
 
 
@@ -62,6 +66,7 @@ Risque d’être coûteux à gérer (logistique, stockage) pour peu de marge.
 4.  Pistes stratégiques :
 Créer des packs avec Flavours ou Chocolates pour augmenter la valeur du panier.
 Retirer ou revoir le pricing des produits à faible rotation et faible revenu.
+
 ![Vue%20temporaire%20par%20catégorie(Vue%20temporaire%20par%20catégorie.png)](Vue%20temporaire%20par%20catégorie.png)
 
 
@@ -71,6 +76,7 @@ Utiliser pour prédiction et simulation business
  Modèle fiable et réaliste
 Label ≈ Prediction : les résultats sont très proches, avec une erreur négligeable.
 Exemple : pour [2, 3.1] on a 6.2€ réel vs 6.314€ prédit.
+
 ![Régression%20linéaire%20multiple(Régression%20linéaire%20multiple.png)](Régression%20linéaire%20multiple.png)
 
 
@@ -91,6 +97,7 @@ Les clients stockent déjà vendredi ?Moins de passages en ville ?Peut-être un 
 •Optimiser les ressources humaines :
 •Réduire les effectifs ou réallouer les stocks selon les jours.
 Analyser par produit & magasin pour comprendre les comportements locaux
+
 ![Analysedesventesparjourdelasemaine(Analysedesventesparjourdelasemaine.png](Analysedesventesparjourdelasemaine.png)
 
 
@@ -110,6 +117,7 @@ Ces hausses extrêmes peuvent s’expliquer par :
 • Ciblage marketing efficace.
 • Fréquence des pics :
 •Les produits 1 et 10 affichent plusieurs croissances > 200% → candidats à succès rapide.
+
 ![Séries%20temporelles(Séries%20temporelles.png)](Séries%20temporelles.png)
 
 
@@ -127,6 +135,7 @@ Stratégie de volume vs marge.
 Pour des stratégies de pricing :
 Confirmer que des hausses de prix impactent peu les quantités (élasticité faible).
 Confirmer l’intérêt d’offres en bundle, surtout pour produits peu corrélés entre eux
+
  ![Matrice%20de%20corrélation(Matrice%20de%20corrélation.png)](Matrice%20de%20corrélation.png)
 
 
@@ -141,6 +150,7 @@ Les écarts sont faibles → comportement similaire en termes de volume d’opé
  Monetary : chiffre d’affaires total
 Tous les magasins ont un CA très proche (~230K à 236K).
 Cela suggère que ces 3 magasins sont de taille/activité comparable, mais sont affectés à différents clusters.
+
  ![RFM%20Segmentation(RFM%20Segmentation.png)](RFM%20Segmentation.png)
 
 
