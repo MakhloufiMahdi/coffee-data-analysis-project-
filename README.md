@@ -7,7 +7,7 @@ The raw dataset was cleaned using Alteryx. Key operations included:
 - Converting `storeID` and `productID` to integers
 - Removing unknown or irrelevant columns
 - Cleaning whitespace, tabs, and line breaks
-
+➡️ The folder contains a version in German 🇩🇪
 ## 🗃️ SQL Analysis (`/sql-analysis`)
 Key business insights were extracted using SQL queries, such as:
 - Weekly revenue
