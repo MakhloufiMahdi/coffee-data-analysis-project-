@@ -1,4 +1,3 @@
-# coffee-data-analysis-project-
 # 📊 Coffee Data Analysis Project
 
 This project presents a complete data analysis workflow based on a coffee sales dataset. It is structured into four main parts:
