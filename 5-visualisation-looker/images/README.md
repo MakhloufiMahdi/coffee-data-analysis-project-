@@ -1,85 +1,109 @@
-# Graphique : Revenu au fil du temps
+# Chart: Revenue Over Time
 
+The curve shows the daily evolution of revenue.
 
-•La courbe montre l'évolution journalière des revenus.
-•On observe une hausse notable vers la fin de la première semaine (ex. pic autour du 7-9 janvier), ce qui peut coïncider avec un événement ou une offre.
-•Des jours à faible performance existent aussi (ex. 13 et 25 janvier).
-•on peut changer la date par le filtre 
+A noticeable increase is observed towards the end of the first week (e.g., a peak around January 7–9), which may coincide with a special event or promotion.
+
+There are also low-performance days (e.g., January 13 and 25).
+
+The date range can be adjusted using the filter.
+
 ![Revenuaufildutempset](Revenuaufildutemps.png)
-# Graphique : Ventes par produit
+# Chart: Sales by Product
+The top revenue-generating products are:
 
-Les tops produits en termes de revenue sont :
+    Latte Rg
 
-•Latte Rg
-•Latte
-•Cappuccino
-•Brazilian Coffee
-•Sustainable Coffee
+    Latte
 
-Ces produits sont tous à base de café, ce qui reflète une forte préférence pour les cafés traditionnels et gourmets.
+    Cappuccino
 
-D’autres produits comme Dark Chocolate et Morning Tea apparaissent également, mais avec un revenu moindre.
+    Brazilian Coffee
+
+    Sustainable Coffee
+
+All these items are coffee-based, indicating a strong customer preference for traditional and gourmet coffee drinks.
+
+Other products like Dark Chocolate and Morning Tea also appear but contribute less to total revenue.
 
 ![Ventes%20par%20produit(Ventes%20par%20produit.png)](Ventes%20par%20produit.png)
-# Graphique : Répartition des revenus par catégorie
+# Chart: Revenue Breakdown by Category
+    Coffee is the core of the business.
+
+    Bakery and Chocolate categories perform well in cross-selling.
+
+    Beans represent a niche, likely appealing to loyal or specialty-oriented customers.
 
 
-•Le café est le cœur du business
-•Bakery et Chocolate : très bons en cross-sell
-•Beans = niche pour clients fidèles ou prosopulaire
 ![Répartition%20des%20revenus%20par%20catégorie(Répartition%20des%20revenus%20par%20catégorie.png)](Répartition%20des%20revenus%20par%20catégorie.png)
 
-# Tableau Performance des produit
+# Table: Product Performance
 
+Barista Espresso: Very popular with high revenue → key product
 
-•Barista Espresso: Très populaire, revenu élevé → produit clé
-•Brewed Teas:Fort volume, prix bas → produits d’appel ou accompagnement
-•Biscotti: Moins vendu mais bonne marge → à pousser en combo
-•Black / Chai Tea: Très peu vendus, mais prix élevés → niche premium ?
-•Clothing: Faible volume, prix élevé → produits dérivés à repositionner
+Brewed Teas: High volume, low price → entry-level or add-on products
+
+Biscotti: Low sales but good margin → to promote in combos
+
+Black / Chai Tea: Very low sales but high price → premium niche?
+
+Clothing: Low volume, high price → branded merchandise that may need repositioning
 ![Tableau%20Performance%20des%20produit(Tableau%20Performance%20des%20produit.png)](Tableau%20Performance%20des%20produit.png)
- # Graphique : Revenu généré par heure de la journée
+ # Chart: Revenue by Hour of the Day
 
-• Lecture des résultats  :
-•Heure la plus rentable : 11:18:31 → environ 1 500 €
-•Suivie de : 09:55:47 (~1 200 €), 09:05:20 (~800 €)
-•Les heures suivantes ont un revenu beaucoup plus faible (entre 250 € et 400 €)
-•Analyse :
-•Les pics de ventes se concentrent en matinée, notamment entre 9h et 11h30
-•Cela montre une forte affluence pour les petits-déjeuners ou pauses café du matin
-•Les créneaux après 12h semblent très peu rentables (ex. 15:38, 19:24 → très bas)
+Insights:
+
+    Most profitable hour: 11:18:31 → approx. €1,500
+
+    Followed by: 09:55:47 (€1,200), 09:05:20 (€800)
+
+    Remaining hours generate significantly less revenue (€250–€400)
+
+Analysis:
+
+    Sales peaks are concentrated in the morning, especially between 9:00 and 11:30.
+
+    Indicates high traffic during breakfast or morning coffee breaks.
+
+    Post-12:00 slots are far less profitable (e.g. 15:38, 19:24 → very low).
 ![Revenu%20généré%20par%20heure%20de%20la%20journée(Revenu%20généré%20par%20heure%20de%20la%20journée.png)](Revenu%20généré%20par%20heure%20de%20la%20journée.png)
-# Graphique : Comparaison du revenu entre localisations
- 
-•Les 3 magasins ont une répartition quasi identique du chiffre d’affaires
-•Hell’s Kitchen est légèrement en tête
-•Cet équilibre suggère une stratégie homogène entre les sites
+# Chart: Revenue Comparison by Location
+All three stores show a nearly identical distribution of revenue.
+
+Hell’s Kitchen slightly leads.
+
+This balance suggests a consistent business strategy across locations.
+
 ![Com](Com.png)
 
 
-# Graphique : Volume de ventes par mois
+# Chart: Monthly Sales Volume
  
+Continuous sales growth from February to June (almost linear).
 
-•Croissance continue des ventes de février à juin (quasi linéaire)
-•Juin est le mois record en termes de volume
-•Janvier et février ont les volumes les plus faibles → probablement saison basse
+June is the highest-volume month.
+
+January and February show the lowest volumes → likely the low season.
 ![Volume%20de%20ventes%20par%20mois(Volume%20de%20ventes%20par%20mois.png)](Volume%20de%20ventes%20par%20mois.png)
-# Filtres disponibles
+# Available Filters
 
-product_type : pour voir l'évolution d’un seul produit
+product_type: to track the evolution of a single product
 
-product_category : pour filtrer par grandes familles (Coffee, Tea…)
+product_category: to filter by main categories (Coffee, Tea…)
 
-store_location : pour segmenter les performances par magasin
+store_location: to segment performance by store
 
-date_range : ici fixé entre le 1 et le 31 janvier
+date_range: here set between January 1 and January 31
+
 ![Filtres%20disponibles(Filtres%20disponibles.png)](Filtres%20disponibles.png)
 ![Filtres%20disponibles2(Filtres%20disponibles2.png)](Filtres%20disponibles2.png)
-# Indicateurs clés (KPI)
+#  Key Performance Indicators (KPIs)
 
-Revenue: 81,700 :Très bon chiffre mensuel. Représente une base solide.
+    Revenue: €81,700 → Strong monthly figure, represents a solid baseline.
 
-Panier moyen: 4.72 : Revenu moyen par transaction
+    Average basket size: €4.72 → Average revenue per transaction.
 
-Produits uniques: 80 : Diversité de l’offre 
+    Unique products: 80 → Reflects the diversity of the product range.
+
+ 
 ![Indicateurs%20clés%20(KPI)(Indicateurs%20clés%20(KPI).png)](Indicateurs%20clés%20(KPI).png)
