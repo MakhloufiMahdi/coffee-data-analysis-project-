@@ -1,6 +1,6 @@
 # 📊 Coffee Data Analysis Project
 
-This project presents a complete data analysis workflow based on a coffee sales dataset. It is structured into four main parts:
+This project presents a complete data analysis Project based on a coffee sales dataset. It is structured into four main parts:
 
 ## 🔧 Data Cleaning (Alteryx)
 The raw dataset was cleaned using Alteryx. Key operations included:
